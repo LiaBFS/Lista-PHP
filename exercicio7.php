@@ -24,7 +24,7 @@
 
         <label>Digite um número:</label>
 
-        <input type="number" name="numero" required>
+        <input type="number" name="numero" required><br>
 
         <button type="submit">Gerar tabuada</button>
 

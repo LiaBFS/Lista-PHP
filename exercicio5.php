@@ -31,10 +31,10 @@
     
     <form action="" method="POST">
         <label for="min">Mínimo:</label>
-        <input type="number" name="min" required>
+        <input type="number" name="min" required><br>
 
         <label for="max">Máximo:</label>
-        <input type="number" name="max" required>
+        <input type="number" name="max" required><br>
 
         <button type="submit">Sortear</button>
     </form>
